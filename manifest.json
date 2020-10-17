@@ -1,0 +1,25 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§b梗体中文的基岩版专属皮肤包",
+        "name": "§e梗体中文皮肤包-§l基岩版",
+        "uuid": "f517e468-319f-473a-8af6-8a3695533fbd",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "description": "§b梗体中文的基岩版专属皮肤包",
+            "type": "skin_pack",
+            "uuid": "e4c76599-491a-4cfb-b47f-eb24481a87c3",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}

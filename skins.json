@@ -1,0 +1,49 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+    {
+      "localization_name": "dianliang233",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "dianliang.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "lakejason",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "lakejason.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "lxazl5770",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "lxazl5770.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "mysticNebula70",
+      "geometry": "geometry.cat",
+      "texture": "mysticnebula70.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "skyeyefast",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skyeyefast.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "littlec",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "littlec.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "gu-zt",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "gu-zt.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "meme_skinpack",
+  "localization_name": "meme_skinpack"
+}
